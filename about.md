@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+My name is Andrea, computer engineering student at University of Pavia, i love to always learn new things, Wikipedia worshipper.
+I do not use social networks, except for Reddit, so i wanted a place to build an online presence, that's the purpose of this website.
 
-If you have a question about him or else, just send a letter to him.
+### Tech-related stuff
+Every broken device in my house ends on my desk, it's disassembled, i try to learn how it works and sometimes i fix it too.
+I wasn't interested in computers until my father gifted me a laptop before my first year of high school, few weeks later i was writing my first program in JustBASIC (don't ask) and shortly after i was trying to install Ubuntu (now i'm a happy Fedora+KDE user, LineageOS on my smartphone). During high school i started programming in Python in my free time, but i was lacking of computer science basics and a proper method, so it didn't go well..also pc gaming didn't help. During the last years of HS i decided to buy some programming books, a Python one and the C bible. This time worked out and in the first year of university i passed the C exam nearly without studying.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+### Other stuff i like
+Avid reader of manga, comics, graphic novels, webcomics, and everything having balloons, i also enjoy tv shows binge-watching and outdoor activities like hiking and fishing (c&r). I like movies, but i'm not a cinephile, and i'm trying to read more books, even the *ballonless* ones.
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+### Contact me at
+ {{ site.author.email }}
