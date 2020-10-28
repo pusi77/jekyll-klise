@@ -4,7 +4,7 @@ description: >- # site description
   pusi77 personal site.
 lang: en-US # default lang
 timezone: Europe/Rome # set your timezone
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/pusi77/pusi77.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
