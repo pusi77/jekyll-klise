@@ -1,2 +1,0 @@
-# Personal site
-This is my personal site, it's built on jekyll and uses a stripped down version of klisé theme. I removed blog features because i won't use them. I basically only use the html+css design because i thought it was cool and very responsive.

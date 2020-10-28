@@ -62,6 +62,7 @@ exclude:
   - lighthouse.png
   - klise-*.gem
   - klise.gemspec
+  - README.md
 
 # Plugins
 plugins:
