@@ -13,6 +13,3 @@ I wasn't interested in computers until my father gifted me a laptop before my fi
 
 ### Other stuff i like
 Avid reader of manga, comics, graphic novels, webcomics, and everything having balloons, i also enjoy tv shows binge-watching and outdoor activities like hiking and fishing (c&r). I like movies, but i'm not a cinephile, and i'm trying to read more books, even the *ballonless* ones.
-
-### Contact me at
- {{ site.author.email }}

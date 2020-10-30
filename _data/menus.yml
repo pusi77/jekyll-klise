@@ -6,6 +6,10 @@
   url: /resume/
   external: false
 
+- title: contacts
+  url: /contacts/
+  external: false  
+
 - title: about
   url: /about/
   external: false # set true if you using external link
