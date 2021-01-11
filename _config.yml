@@ -1,7 +1,7 @@
 # Site settings
 title: pusi77 # site title
 description: >- # site description
-  pusi77 personal site.
+  pusi77's personal site.
 lang: en-US # default lang
 timezone: Europe/Rome # set your timezone
 repo: https://github.com/pusi77/pusi77.github.io # site repo [optional]
@@ -11,7 +11,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Andrea Pusineri # author name
   bio: >- # tell to the world
-    Computer engineering student, probably studying something that won't be in the next exam.
+    Computer engineering student, CTFs newbie.
     <br>Check my <a href="https://github.com/pusi77" target="_blank" rel="noopener">github</a>.
   username: pusi77 # general username
   github: pusi77 # github username
